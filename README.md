@@ -30,7 +30,7 @@ $score = 1 - (FPR + FNR)$
 
 ## Results Summary
 
-| Model | Feature Engineering | Hard Voting | Soft Voting |Score FNR+FPR rate (Valid test) | 1-(FNR+FPR) (Valid Test) |
+| Model | Feature Engineering | Hard Voting | Soft Voting |Score FNR+FPR rate (Valid Test) | 1-(FNR+FPR) (Valid Test) |
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Adaboost (baseline) | Features Selection | No | No | 0.52 | 0.48 |
 | Gradient Boosting | Features Selection | No | No | 0.54 | 0.46 |
